@@ -20,3 +20,8 @@ O preço médio subiu **15,9%**. Na amostra, **74 jogos** ficaram mais caros, **
 ## Minha contribuição
 
 Defini o recorte da análise e usei o ChatGPT para gerar e ajustar o código e o dashboard.
+
+
+## Notebook
+
+[Abrir notebook da análise no Google Colab](https://colab.research.google.com/drive/1Hrvilc47cGuTl_lJVq5iIxf2eGMTnI_m?usp=sharing)
